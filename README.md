@@ -34,3 +34,10 @@ Our program should generate the secret number when it first starts up. Let’s s
 ## I2: Using ERB and HTML
 
 Let’s move toward letting the user actually put in a guess and give feedback.
+
+## I3: Guessing Numbers
+
+In this iteration, let’s focus on:
+
+- Writing an HTML Form
+- Reacting to the Guess (working with params)
